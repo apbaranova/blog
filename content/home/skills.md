@@ -16,18 +16,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
+  - description: 60%
+    icon: ":deciduous_tree:"
+    icon_pack: emoji
+    name: tree climbing
+  - description: 45%
+    icon: ":derelict_house:"
+    icon_pack: emoji
+    name: exploring
+  - description: 79%
+    icon: ":camera:"
+    icon_pack: emoji
+    name: photography
   - description: 100%
-    icon: chart-line
-    icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+    icon: ":jack_o_lantern:"
+    icon_pack: emoji
+    name: celebrating
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
