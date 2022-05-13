@@ -1,6 +1,6 @@
 ---
-title: Git Version Control
-subtitle: Getting started
+title: Markdown
+subtitle: a simple markup language
 
 # Summary for listings and search engines
 summary: Markdown is a simple markup language used to create rich text (e.g. HTML) with a plain text editor. It lets you add basic formatting to your text, using symbols known and accessible on all keyboards. Font size, colour, and other, more advanced options are not available with Markdown.

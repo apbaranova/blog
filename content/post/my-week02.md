@@ -1,6 +1,6 @@
 ---
-title: Git Version Control
-subtitle: Getting started
+title: About my previous week
+subtitle: post-03
 
 # Summary for listings and search engines
 summary: This chapter will be about my previous week.
